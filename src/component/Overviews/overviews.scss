@@ -1,0 +1,31 @@
+.overviews-content{
+    .description{
+        text-align: center;
+        width: 53.3%;
+        margin: 0 auto;
+        .Large-text{
+            color: var(--sm-text);
+            font-size: 28px;
+            font-weight: 400;
+            line-height: 28px;
+            margin: 0;
+        }
+        .xl-heading{
+            font-size: 60px;
+            font-weight: bold;
+            color: var(--heading-color);
+            margin-top: 22px;
+            margin-bottom: 35px;
+            line-height: 60px;
+        }     
+        .sm-text{
+            width: 100%;
+            margin: 0;
+            line-height: 24px;
+        }   
+    }
+    .site-slider{
+        margin-top: 25px;
+        
+    }
+}
